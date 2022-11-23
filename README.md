@@ -114,7 +114,7 @@ You Created. --> Save.
 
 # 11) connect to the master node
     sh -i ~/.ssh/id_rsa ubuntu@ipAddress
-    ssh -i ~/.ssh/id_rsa ubuntu@54.219.231.118
+    ssh -i ~/.ssh/id_rsa ubuntu@3.101.27.242
     ssh -i ~/.ssh/id_rsa ubuntu@13.57.193.211
 # 11) To list nodes
 
